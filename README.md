@@ -30,5 +30,3 @@ Downlink:
 8. **927.5** - SF7BW500 to SF12BW500
 
 IMPORTANTE: Note that The Things Network uses 2nd Sub-Band only (channels 8 to 15 and 65). You'll need to program the specific channels into the devices in order to make them work with TTN.
-
-Teste Commit
